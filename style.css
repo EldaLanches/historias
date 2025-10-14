@@ -39,7 +39,7 @@
 
 	button {
 		text-align: center;
-		font-size: 20px;
+		font-size: 40px;
 		background-color: #a5dd65;
 		padding: 10px 30px;
 	}
@@ -58,8 +58,8 @@
 	a:active {
 		color: rgb(0, 255, 0);
 	}
-	
-/* FECHA BUTTON */
+
+	/* FECHA BUTTON */
 	img {}
 
 	.imgindex {}
