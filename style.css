@@ -40,11 +40,11 @@
 	button {
 		display: block;
 		margin: auto;
-		font-size: 40px;
+		font-size: 20px;
 		background-color: #a5dd65;
 		text-align: center;
-		width: 150px;
-		height: 75px;
+		width: 200px;
+		height: 100px;
 	}
 
 	a:hover {
