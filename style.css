@@ -1,31 +1,28 @@
 	body {
 		background-color: #528f16;
 	}
-	
-	.chefe{
-		background-color: aqua;
+
+	.chefe {
+		background-color: rgb(255, 197, 122);
+		
 	}
-	
-	h1{
+
+
+
+	h1 {
 		text-align: center;
 		font-size: 40px;
 		color: rgb(255, 0, 0);
 
 	}
 
-	p{
+	p {
 		text-align: center;
 		font-size: 30px;
 	}
 
-	img{
-		
-	}
-	
-	.imgindex{
-		
-	}
-	
-	#principal {
-		
-	}
+	img {}
+
+	.imgindex {}
+
+	#principal {}
