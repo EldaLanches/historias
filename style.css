@@ -38,6 +38,7 @@
 	/* BUTTON */
 
 	button {
+		display: flex;
 		text-align: center;
 		font-size: 40px;
 		background-color: #a5dd65;
