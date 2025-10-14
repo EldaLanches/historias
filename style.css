@@ -4,22 +4,22 @@
 
 	.chefe {
 		background-color: #ffc57a;
-		
+
 	}
 
-	.jabuti{
+	.jabuti {
 		background-color: #ff9587;
 	}
 
-	.gazela{
+	.gazela {
 		background-color: beige;
 	}
 
-	.galo{
+	.galo {
 		background-color: #528f16;
 	}
 
-	.corvo{
+	.corvo {
 		background-color: #a3a3a3;
 	}
 
@@ -35,8 +35,11 @@
 		font-size: 30px;
 	}
 
-	button{
+	button {
 		text-align: center;
+		font-size: 20px;
+		background-color: #a5dd65;
+		padding: 10px 30px;
 	}
 
 	img {}
