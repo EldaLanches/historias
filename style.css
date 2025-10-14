@@ -63,8 +63,11 @@
 	}
 
 	/* FECHA BUTTON */
-	img {}
+	
+	img {
+    width: 180px;
+    height: 190px;
+    border-radius: 10px;
+    object-fit: cover;
 
-	.imgindex {}
-
-	#principal {}
+}
