@@ -73,10 +73,11 @@
 	/* FECHA BUTTON */
 
 	img {
-		display: flex;
 		width: 600px;
 		height: 600px;
 		border-radius: 50px;
 		object-fit: cover;
+		align-items: center;
+    	margin: 0 10em;
 
 	}
