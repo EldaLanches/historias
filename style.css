@@ -81,3 +81,12 @@
     	margin: 0 40em;
 
 	}
+
+	.jabuti{
+		width: 600px;
+		height: 700px;
+		border-radius: 50px;
+		object-fit: cover;
+		align-items: center;
+    	margin: 0 40em;
+	}
